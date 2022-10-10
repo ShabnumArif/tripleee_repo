@@ -1,1 +1,1 @@
-web: gunicorn tripleee.wsgi --log-file -
+web: gunicorn tripleee_1.wsgi --log-file -
